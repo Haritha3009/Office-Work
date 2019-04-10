@@ -1,0 +1,16 @@
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\ActualDataBaseRepository.dll.config
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\ActualDataBaseRepository.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\ActualDataBaseRepository.pdb
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\EntityFramework.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\EntityFramework.xml
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\obj\Debug\ActualDataBaseRepository.csprojAssemblyReference.cache
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\obj\Debug\ActualDataBaseRepository.csproj.CoreCompileInputs.cache
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\obj\Debug\ActualDataBaseRepository.csproj.CopyComplete
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\obj\Debug\ActualDataBaseRepository.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\obj\Debug\ActualDataBaseRepository.pdb
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\CustomModel.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\CustomModel.pdb
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\IDataBaseRepository.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\ActualDataBaseRepository\bin\Debug\IDataBaseRepository.pdb

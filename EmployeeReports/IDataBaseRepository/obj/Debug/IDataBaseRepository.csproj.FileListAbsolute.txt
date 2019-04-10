@@ -1,0 +1,9 @@
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\bin\Debug\IDataBaseRepository.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\bin\Debug\IDataBaseRepository.pdb
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\bin\Debug\CustomModel.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\bin\Debug\CustomModel.pdb
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\obj\Debug\IDataBaseRepository.csprojAssemblyReference.cache
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\obj\Debug\IDataBaseRepository.csproj.CoreCompileInputs.cache
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\obj\Debug\IDataBaseRepository.csproj.CopyComplete
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\obj\Debug\IDataBaseRepository.dll
+C:\Users\haritha.b\Desktop\mvc-\EmployeeReports\IDataBaseRepository\obj\Debug\IDataBaseRepository.pdb
